@@ -1,5 +1,6 @@
 {
-    "1.0": "Land-owning farmer",
+    "1.0": "Land-owning farmer (working his own land or having it worked ‘a sua mano’ under direct management)",
+    "2.0": "Farmer who rents land while owning some of it in his personal capacity",
     "3.0": "Sharecropper (mezzadro)",
     "4.0": "Daily farm laborer",
     "5.0": "Shepherd (pastore)",
