@@ -1,12 +1,12 @@
 {
-    "1.0": "Land-owning farmer (working his own land or having it worked ‘a sua mano’ under direct management)",
+    "1.0": "Land-owning farmer (working his own land or having it worked a sua mano, under direct management)",
     "2.0": "Farmer who rents land while owning some of it in his personal capacity",
     "3.0": "Sharecropper (mezzadro)",
     "4.0": "Daily farm laborer",
     "5.0": "Shepherd (pastore)",
     "6.0": "Fisherman, hunter (pescatore, cacciatore)",
     "7.0": "Greengrocer (treccone)",
-    "8.0": "'Messere' (knight, nobleman)",
+    "8.0": "Messere, title of knight, nobleman",
     "9.0": "Cotton wholesaler (bambaciaio)",
     "10.0": "Shipbuilding profession (marinaio, calafato, copertoiaio, maestro di barche)",
     "11.0": "Employee of private individual (fante, fattore, sta con...)",
@@ -19,7 +19,7 @@
     "18.0": "Spikes maker (bullettaio)",
     "19.0": "(miscellaneous)",
     "20.0": "Transport (vetturale, carretaio, portatore, carradore, legatore)",
-    "21.0": "Notary, bookkeeper, scribe (notaio, 'ser', scriba)",
+    "21.0": "Notary, bookkeeper, scribe (notaio, ser, scriba)",
     "22.0": "Arte di Calimala, merchant (mercatante)",
     "23.0": "Arte del Cambio, moneychanger, banker (cambiatore, banchiere, tavoliere)",
     "24.0": "Arte della Lana, wool business (lanaiolo, ritagliatore, pannaiolo, drappiere)",
@@ -97,7 +97,7 @@
     "96.0": "Fodder dealer (biadaiolo)",
     "97.0": "Ropemaker (cordatore, funaiolo, saccario, fa la stoppa)",
     "98.0": "Carpet and cushion beater (verghegiatore, scamatino, divettino)",
-    "99.0": "'Messere', title of doctors of law (giudice, doctorlegum)",
+    "99.0": "Messere, title of doctors of law (giudice, doctorlegum)",
     "100.0": "Fishmonger (pesciaiuolo)",
     "101.0": "Warehouse keeper (fondacaio)"
 }
